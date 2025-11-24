@@ -19,13 +19,13 @@ A small Java console application that manage a medical store's inventory.
 - `pharmacy_db.txt`: Plain-text database used by the app to persist inventory.
 - `images`: Supporting images
 ### 🔹 Item Entry & Main Menu
-<img src="Screenshot(1).png" width="700">
+<img src="images/Screenshot(1).png" width="700">
 
 ### 🔹 Current Stock List Display and Bill Processing
-<img src="Screenshot(2).png" width="700">
+<img src="images/Screenshot(2).png" width="700">
 
 ### 🔹 Risk Scan Of Current Stock And Exit
-<img src="Screenshot(3).png" width="700">
+<img src="images/Screenshot(3).png" width="700">
 
 **Requirements**
 - Java JDK 8 or newer installed and available on `PATH`.
