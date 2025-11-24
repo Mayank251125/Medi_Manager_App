@@ -46,7 +46,7 @@ javac *.java
 - Run the application (the main class is `MediManagerApp`):
 
 ```
-java MediStockApp
+java MediManagerApp
 ```
 
 **Data file format (`pharmacy_db.txt`)**
